@@ -3,7 +3,7 @@
 # Projects:
 ## notofox.so
 ### Notofox is the SaaS solution I am currently building that lets startups create a feedback portal to receive feedback from their users. 
-### Startups embded our feedback widget to collect user feedback inside their app, all collected feedback is sent to a Notion template (which you can then share with the entire team).
+### Startups embded our feedback widget to collect user feedback inside their app, all collected feedback is sent to a Notion template. You can then share the Notion template with your team so everyone can review the user feedback as it's received in real time
 
 ## footprint.so
 ### Footprint is another SaaS solution I'm *planning* to build. To understand what the software does, look at the questions below: 
