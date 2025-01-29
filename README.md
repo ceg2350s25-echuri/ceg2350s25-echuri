@@ -1,9 +1,9 @@
 # Name: Praneeth Echuri
 # Major: Computer Science
-# Projects:
+# Personal Projects:
 ## notofox.so
 ### Notofox is the SaaS solution I am currently building that lets startups create a feedback portal to receive feedback from their users. 
-### Startups embded our feedback widget to collect user feedback inside their app, all collected feedback is sent to a Notion template. You can then share the Notion template with your team so everyone can review the user feedback as it's received in real time
+### Startups embed our feedback widget to collect user feedback inside their app, all collected feedback is sent to a Notion template. You can then share the Notion template with your team so everyone can review the user feedback as it's received in real time
 ![chrome_e9zu3VKiW7](https://github.com/user-attachments/assets/40fe14ea-231a-4f74-87e5-4b7d46e5cece)
 
 
