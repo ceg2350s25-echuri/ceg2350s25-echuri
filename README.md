@@ -16,7 +16,7 @@
 
 ### To address this problem, I wanted to build a service that connects to your email inbox using OAuth and shows you your entire digital footprint- a grid of all the services you have ever registered for using that email address. 
 
-### You'll be able to "reclaim" your data from any service by submitting a data deletion request within the data removal rights granted to you underneath GDPR laws. If any services you use are compromised in a data breach, your eamil address will be checked for in the data breach dump. If it's found then the user will be notified that they have been compromised and which service is responsible for leaking their information. 
+### You'll be able to "reclaim" your data from any service by submitting a data removal request to any company you want to reclaim data from. That company must then delete your data in compliance under GDPR law. If any services you use are compromised in a data breach, your eamil address will be checked for in the data breach dump. If it's found then the user will be notified that one of the services in their footprint has been compromised
 
 [Work in Progress Example]
 ![NVIDIA_Share_ZxRQ2F8cEI](https://github.com/user-attachments/assets/2431098c-6cae-4846-909c-e39151e30278)
